@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![data](https://github.com/yatinkode/email-ham-spam-nltk-flask/blob/master/images/cap2.jpg)
+![data](https://github.com/yatinkode/yatinkode/blob/master/Banner.jpg)
 
 <!--
 **yatinkode/yatinkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
