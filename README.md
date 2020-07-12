@@ -3,17 +3,23 @@
 
 ![data](https://github.com/yatinkode/yatinkode/blob/master/Banner.jpg)
 
+### Hi This is Yatin Kode
+I am a Data Science Enthusiast. I like find new insights and patterns in data by applying predictive analysis and machine learning techniques on it. I also like to solve various deep learning problems
+
+I am skilled in below tools:
+- ⚡ Python (Pandas, Numpy, Scipy, Matplotlib)
+- ⚡ R programming
+- ⚡ Tableau
+- ⚡ Tensorflow
+- ⚡ Keras
+- ⚡ Flask
+- ⚡ SQL
+- ⚡ Unix
+
 <!--
 **yatinkode/yatinkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
