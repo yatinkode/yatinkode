@@ -15,6 +15,7 @@ I am skilled in below tools:
 - ⚡ Flask
 - ⚡ SQL
 - ⚡ Unix
+- ⚡ Microsoft Excel
 
 <!--
 **yatinkode/yatinkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
